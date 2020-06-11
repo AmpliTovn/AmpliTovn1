@@ -1,0 +1,4 @@
+https://ampli.gnomio.com/                   курси
+https://codepen.io/                         програмування сайт 
+https://drive.google.com/drive/my-drive     гугл диск
+https://github.com/MaxTovtin/AmpliTown.git              гыт хаб
